@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Headline STAR-style (Situação • Tarefa • Ação • Resultado) -->
-### Senior Specialist Monitoring & Observability | Arquiteto da Solução Trade Watch
+### Especialista Sênior em Monitoramento e Observabilidade | Arquiteto da Solução Trade Watch
 **Conduzo estratégias de observabilidade para ambientes críticos no produto Trade Watch (Grupo Trade Technology), transformando sinais técnicos em decisões rápidas e resultados de negócio.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-dos-santos/)
@@ -15,7 +15,7 @@
 ---
 
 ## 🇧🇷 Sobre mim
-Sou **Senior Specialist Monitoring & Observability** e atualmente também **Arquiteto da Solução Trade Watch** no **Grupo Trade Technology**.
+Sou **Especialista Sênior em Monitoramento e Observabilidade** e atualmente também **Arquiteto da Solução Trade Watch** no **Grupo Trade Technology**.
 
 Minha proposta de valor: **desenhar e evoluir arquiteturas de observabilidade que reduzem tempo de detecção e resposta, elevam confiabilidade operacional e dão previsibilidade para decisões técnicas e executivas**.
 
@@ -53,24 +53,24 @@ I have delivered high-impact projects for:
 
 ## 🛠️ Stack principal
 
-### Observability & Monitoring
+### Observabilidade e Monitoramento | Observability & Monitoring
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![IBM Instana](https://img.shields.io/badge/IBM%20Instana-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Instana](https://img.shields.io/badge/IBM%20Instana-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### Grafana Stack | LGTM
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-2F3A4A?style=for-the-badge&logo=grafana&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-6E9F18?style=for-the-badge&logo=grafana&logoColor=white)
-![Mimir](https://img.shields.io/badge/Mimir-5A2D82?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Automation & Engineering
+### Automação e Engenharia | Automation & Engineering
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud / Infra (em evolução contínua)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -79,7 +79,7 @@ I have delivered high-impact projects for:
 
 ---
 
-## 🧩 Destaques para gestores de tecnologia, público técnico e recrutadores
+## 🚀 Diferenciais de atuação e impacto
 
 - Traduzo sinais técnicos complexos em **planos de ação práticos**.
 - Estruturo observabilidade para **escalabilidade, confiabilidade e governança**.
