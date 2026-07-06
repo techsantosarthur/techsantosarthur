@@ -3,8 +3,8 @@
 <div align="center">
 
 <!-- Headline STAR-style (Situação • Tarefa • Ação • Resultado) -->
-### Especialista Sênior em Monitoramento e Observabilidade | Arquiteto da Solução Trade Watch
-**Conduzo estratégias de observabilidade para ambientes críticos no produto Trade Watch (Grupo Trade Technology), transformando sinais técnicos em decisões rápidas e resultados de negócio.**
+### Especialista Sênior em Monitoramento e Observabilidade | Arquiteto da Solução Trade Watch Platform
+**Conduzo estratégias de observabilidade para ambientes críticos no produto Trade Watch Platform (Grupo Trade Technology), transformando sinais técnicos em decisões rápidas e resultados de negócio.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-dos-santos/)
 [![Email](https://img.shields.io/badge/Email-ti.arthursantos%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti.arthursantos@gmail.com)
@@ -15,7 +15,7 @@
 ---
 
 ## 🇧🇷 Sobre mim
-Sou **Especialista Sênior em Monitoramento e Observabilidade** e atualmente também **Arquiteto da Solução Trade Watch** no **Grupo Trade Technology**.
+Sou **Especialista Sênior em Monitoramento e Observabilidade** e atualmente também **Arquiteto da Solução Trade Watch Platform** no **Grupo Trade Technology**.
 
 Minha proposta de valor: **desenhar e evoluir arquiteturas de observabilidade que reduzem tempo de detecção e resposta, elevam confiabilidade operacional e dão previsibilidade para decisões técnicas e executivas**.
 
@@ -27,7 +27,7 @@ Tenho experiência em projetos de alta criticidade, com entregas para:
 ---
 
 ## 🇺🇸 About me
-I am a **Senior Specialist in Monitoring & Observability** and currently also the **Trade Watch Solution Architect** at **Grupo Trade Technology**.
+I am a **Senior Specialist in Monitoring & Observability** and currently also the **Trade Watch Platform Solution Architect** at **Grupo Trade Technology**.
 
 My value proposition: **designing and evolving observability architectures that reduce detection and response time, increase operational reliability, and improve technical and business decision-making**.
 
@@ -55,22 +55,22 @@ I have delivered high-impact projects for:
 
 ### Observabilidade e Monitoramento | Observability & Monitoring
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![IBM Instana](https://img.shields.io/badge/IBM%20Instana-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Instana](https://img.shields.io/badge/IBM%20Instana-0053D6?style=for-the-badge&logo=instana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### Grafana Stack | LGTM
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Mimir](https://img.shields.io/badge/Mimir-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafanaloki&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafanatempo&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-F46800?style=for-the-badge&logo=grafanamimir&logoColor=white)
 
 ### Automação e Engenharia | Automation & Engineering
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud / Infra (em evolução contínua)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
