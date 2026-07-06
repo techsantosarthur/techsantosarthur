@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Headline STAR-style (Situação • Tarefa • Ação • Resultado) -->
-### Arquiteto de Soluções de Observabilidade | Especialista Sênior em Monitoramento
+### Senior Specialist Monitoring & Observability | Arquiteto da Solução Trade Watch
 **Conduzo estratégias de observabilidade para ambientes críticos no produto Trade Watch (Grupo Trade Technology), transformando sinais técnicos em decisões rápidas e resultados de negócio.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-dos-santos/)
@@ -15,7 +15,7 @@
 ---
 
 ## 🇧🇷 Sobre mim
-Sou **Especialista Sênior em Observabilidade e Monitoramento** e **Arquiteto de Soluções de Observabilidade** no **Grupo Trade Technology**, atuando no produto **Trade Watch**.
+Sou **Senior Specialist Monitoring & Observability** e atualmente também **Arquiteto da Solução Trade Watch** no **Grupo Trade Technology**.
 
 Minha proposta de valor: **desenhar e evoluir arquiteturas de observabilidade que reduzem tempo de detecção e resposta, elevam confiabilidade operacional e dão previsibilidade para decisões técnicas e executivas**.
 
@@ -27,7 +27,7 @@ Tenho experiência em projetos de alta criticidade, com entregas para:
 ---
 
 ## 🇺🇸 About me
-I am a **Senior Observability & Monitoring Specialist** and **Observability Solutions Architect** at **Grupo Trade Technology**, working on the **Trade Watch** product.
+I am a **Senior Specialist in Monitoring & Observability** and currently also the **Trade Watch Solution Architect** at **Grupo Trade Technology**.
 
 My value proposition: **designing and evolving observability architectures that reduce detection and response time, increase operational reliability, and improve technical and business decision-making**.
 
@@ -55,17 +55,22 @@ I have delivered high-impact projects for:
 
 ### Observability & Monitoring
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![IBM Instana](https://img.shields.io/badge/IBM%20Instana-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana%20%7C%20LGTM-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![IBM Instana](https://img.shields.io/badge/IBM%20Instana-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
+
+### Grafana Stack | LGTM
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-2F3A4A?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-6E9F18?style=for-the-badge&logo=grafana&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-5A2D82?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Automation & Engineering
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud / Infra (em evolução contínua)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -109,8 +114,6 @@ I have delivered high-impact projects for:
 
 - LinkedIn: https://www.linkedin.com/in/arthur-silva-dos-santos/
 - E-mail: ti.arthursantos@gmail.com
-
-Se você busca um profissional para elevar a maturidade de observabilidade e monitoramento com foco em resultado, **vamos conversar**.
 
 ---
 
