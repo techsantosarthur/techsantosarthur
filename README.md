@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:001B3A,35:003E7A,72:0A66C2,100:D95F02&text=Arthur%20Santos&fontAlign=50&fontColor=ffffff&fontSize=52&desc=Observability%20%7C%20Monitoring%20%7C%20APM%20%7C%20SRE%20%7C%20Trade%20Watch%20Platform&descSize=18&descAlignY=63&animation=fadeIn" alt="Arthur Santos - Observability, Monitoring, APM, SRE and Trade Watch Platform" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:001B3A,30:003E7A,68:0A66C2,100:D95F02&text=Arthur%20Santos&fontAlign=50&fontColor=ffffff&fontSize=50&desc=Monitoring%20%7C%20Observability%20%7C%20APM%20%7C%20SRE%20%7C%20Trade%20Watch%20Platform&descSize=18&descAlignY=62&animation=fadeIn" alt="Arthur Santos - Monitoring, Observability, APM, SRE and Trade Watch Platform" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=0A66C2&center=true&vCenter=true&width=900&lines=Turning+telemetry+into+actionable+insights;Monitoring+%7C+Observability+%7C+APM+%7C+SRE;Trade+Watch+Platform+Solution+Architect" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=0A66C2&center=true&vCenter=true&width=920&lines=Turning+telemetry+into+actionable+insights;Observability+for+critical+IT+environments;Monitoring%2C+APM%2C+Tracing%2C+Logs+and+Metrics;Trade+Watch+Platform+Solution+Architect" alt="Typing intro" />
 
 <br /><br />
 
