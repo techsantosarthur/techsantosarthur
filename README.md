@@ -38,9 +38,11 @@ My work focuses on designing and evolving observability architectures for critic
       </p>
     </td>
     <td align="center" width="30%">
-      <img src="https://cdn.simpleicons.org/opentelemetry/000000" width="56" alt="OpenTelemetry" />
+      <img src="https://cdn.simpleicons.org/opentelemetry/8F43CC" width="56" alt="OpenTelemetry" />
       <br /><br />
-      <img src="https://grafana.com/static/img/logos/logo-grafana.svg" width="110" alt="Grafana" />
+      <a href="https://tradetechnology.com.br/tr-watch/" target="_blank">
+        <img src="./assets/logos/trade-watch-logo.png" width="210" alt="Trade Watch Platform" />
+      </a>
     </td>
   </tr>
 </table>
@@ -81,7 +83,7 @@ My work focuses on designing and evolving observability architectures for critic
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/opentelemetry/000000" width="46" height="46" alt="OpenTelemetry" />
+      <img src="https://cdn.simpleicons.org/opentelemetry/8F43CC" width="46" height="46" alt="OpenTelemetry" />
       <br /><strong>OpenTelemetry</strong>
       <br /><sub>Telemetry</sub>
     </td>
@@ -106,7 +108,7 @@ My work focuses on designing and evolving observability architectures for critic
       <br /><sub>Metrics</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://grafana.com/static/img/logos/logo-grafana.svg" width="48" height="48" alt="Grafana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
       <br /><strong>Grafana</strong>
       <br /><sub>Dashboards</sub>
     </td>
@@ -118,22 +120,22 @@ My work focuses on designing and evolving observability architectures for critic
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="https://grafana.com/static/img/logos/logo-loki.svg" width="54" height="54" alt="Grafana Loki" />
+      <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="54" height="54" alt="Grafana Loki" />
       <br /><strong>Loki</strong>
       <br /><sub>Logs</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://grafana.com/static/img/logos/logo-grafana.svg" width="54" height="54" alt="Grafana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="54" height="54" alt="Grafana" />
       <br /><strong>Grafana</strong>
       <br /><sub>Visualization</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" width="54" height="54" alt="Grafana Tempo" />
+      <img src="https://raw.githubusercontent.com/grafana/tempo/main/docs/sources/logo_and_name.png" width="54" height="54" alt="Grafana Tempo" />
       <br /><strong>Tempo</strong>
       <br /><sub>Traces</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://grafana.com/static/img/logos/logo-mimir.svg" width="54" height="54" alt="Grafana Mimir" />
+      <img src="https://raw.githubusercontent.com/grafana/mimir/main/docs/sources/mimir-logo.svg" width="54" height="54" alt="Grafana Mimir" />
       <br /><strong>Mimir</strong>
       <br /><sub>Metrics backend</sub>
     </td>
@@ -177,17 +179,17 @@ My work focuses on designing and evolving observability architectures for critic
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="52" height="52" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="62" height="52" alt="AWS" />
       <br /><strong>AWS</strong>
       <br /><sub>Cloud</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="52" height="52" alt="Microsoft Azure" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="52" height="52" alt="Microsoft Azure" />
       <br /><strong>Azure</strong>
       <br /><sub>Cloud</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="52" height="52" alt="Google Cloud" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="52" height="52" alt="Google Cloud" />
       <br /><strong>GCP</strong>
       <br /><sub>Cloud</sub>
     </td>
@@ -299,12 +301,3 @@ Suggested future items:
 Monitoring • Observability • APM • SRE • Trade Watch Platform
 
 </div>
-
-<!--
-Logo notes:
-- For tools that are not reliably supported by Shields/Simple Icons, this README uses direct image URLs instead of badge logo slugs.
-- Zabbix: Wikimedia SVG / Zabbix brand assets.
-- IBM Instana: VectorLogoZone Instana SVG.
-- Loki, Tempo and Mimir: Grafana/GitHub public logo assets.
-- AWS and Azure: Simple Icons CDN direct SVG rendering, not Shields logo slugs.
--->
