@@ -298,7 +298,7 @@ Suggested future items:
 
 ## 🤝 Let's connect
 
-- LinkedIn: [Arthur Santos](https://www.linkedin.com/in/arthur-silva-dos-santos/)
+- LinkedIn: [Arthur Santos](https://www.linkedin.com/in/techsantosarthur/)
 - E-mail: <a href="mailto:ti.arthursantos@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" alt="Gmail" /></a> ti.arthursantos@gmail.com
 - WhatsApp: <a href="https://wa.me/5551991561566"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16" alt="WhatsApp" /></a> +55 51 99156-1566
 
