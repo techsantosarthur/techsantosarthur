@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-dos-santos/)
 [![Email](https://img.shields.io/badge/Email-ti.arthursantos%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti.arthursantos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2051%2099156--1566-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551991561566)
 [![Profile Views](https://komarev.com/ghpvc/?username=techsantosarthur&style=for-the-badge&color=0e75b6)](https://github.com/techsantosarthur)
 
 </div>
@@ -298,6 +299,7 @@ Suggested future items:
 
 - LinkedIn: [Arthur Santos](https://www.linkedin.com/in/arthur-silva-dos-santos/)
 - E-mail: <a href="mailto:ti.arthursantos@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" alt="Gmail" /></a> ti.arthursantos@gmail.com
+- WhatsApp: <a href="https://wa.me/5551991561566"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="16" alt="WhatsApp" /></a> +55 51 99156-1566
 
 ---
 
