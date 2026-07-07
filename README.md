@@ -44,11 +44,13 @@ I combine deep technical execution with a consultative business approach, workin
       </p>
     </td>
     <td align="center" width="32%" valign="middle">
-      <a href="https://tradetechnology.com.br/tr-watch/" target="_blank">
+      <a href="https://tradetechnology.com.br/tr-watch/">
         <img src="./assets/logos/trade-watch-logo.png" width="290" alt="Trade Watch Platform" />
       </a>
       <br /><br />
-      <strong>Trade Watch Platform</strong>
+      <a href="https://tradetechnology.com.br/tr-watch/">
+        <strong>Trade Watch Platform</strong>
+      </a>
       <br />
       <sub>Official solution page at Trade Technology</sub>
     </td>
