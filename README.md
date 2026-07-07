@@ -21,12 +21,13 @@
 
 ## 👋 About me
 
-I am a **Senior Monitoring & Observability Specialist** and currently the **Trade Watch Platform Solution Architect** at **Grupo Trade Technology**.
+I am a **Senior Monitoring & Observability Solutions Architect** at **Grupo Trade Technology**, currently working as the **Trade Watch Platform Solution Architect**.
 
-My work focuses on designing and evolving observability architectures for critical environments, connecting **metrics, logs, traces, APM, SRE practices and operational telemetry** to improve reliability, incident response and business decision-making.
+My work focuses on designing, evolving and positioning observability architectures for critical enterprise environments, connecting **metrics, logs, traces, events, APM, SRE practices and operational telemetry** to improve reliability, incident response, performance visibility and business decision-making.
 
-> 🇧🇷 Atuo na arquitetura e evolução da **Trade Watch Platform**, uma solução de observabilidade voltada para monitoramento, APM, visibilidade operacional, prontidão para incidentes e correlação de sinais técnicos com impacto de negócio.
+I combine deep technical execution with a consultative business approach, working across solution architecture, implementation, pre-sales, demos, customer discovery, monitoring journeys, dashboards, alerts and continuous platform evolution.
 
+> 🇧🇷 Atuo na arquitetura e evolução da **Trade Watch Platform**, uma solução de observabilidade voltada para monitoramento, APM, visibilidade operacional, prontidão para incidentes e correlação de sinais técnicos com impacto real no negócio.
 ---
 
 ## 🚀 Current position
@@ -243,8 +244,6 @@ flowchart LR
 ---
 
 ## 📌 Selected experience
-
-> Use this section only for public-safe references. Remove or adjust client names if there are confidentiality restrictions.
 
 - **Rede de Farmácias São João** — monitoring and observability initiatives with Zabbix and operational visibility.
 - **Vale** — monitoring initiatives with Zabbix in critical environments.
