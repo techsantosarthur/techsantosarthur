@@ -28,7 +28,7 @@ My work focuses on designing and evolving observability architectures for critic
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="72%">
       <h3>Trade Watch Platform Solution Architect</h3>
       <p>
         Leading the architecture and technical evolution of an observability platform focused on critical IT environments, combining infrastructure monitoring, application performance monitoring, distributed tracing, logs, metrics and operational dashboards.
@@ -37,12 +37,12 @@ My work focuses on designing and evolving observability architectures for critic
         The goal is to transform technical signals into actionable insights for engineering, operations and executive decision-making.
       </p>
     </td>
-    <td align="center" width="30%">
-      <img src="https://cdn.simpleicons.org/opentelemetry/8F43CC" width="56" alt="OpenTelemetry" />
-      <br /><br />
+    <td align="center" width="28%">
       <a href="https://tradetechnology.com.br/tr-watch/" target="_blank">
-        <img src="./assets/logos/trade-watch-logo.png" width="210" alt="Trade Watch Platform" />
+        <img src="./assets/logos/trade-watch-logo.png" width="250" alt="Trade Watch Platform" />
       </a>
+      <br />
+      <sub><a href="https://tradetechnology.com.br/tr-watch/" target="_blank">Official solution page</a></sub>
     </td>
   </tr>
 </table>
@@ -130,12 +130,12 @@ My work focuses on designing and evolving observability architectures for critic
       <br /><sub>Visualization</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/grafana/tempo/main/docs/sources/logo_and_name.png" width="54" height="54" alt="Grafana Tempo" />
+      <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" width="54" height="54" alt="Grafana Tempo" />
       <br /><strong>Tempo</strong>
       <br /><sub>Traces</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/grafana/mimir/main/docs/sources/mimir-logo.svg" width="54" height="54" alt="Grafana Mimir" />
+      <img src="https://grafana.com/static/img/logos/logo-mimir.svg" width="54" height="54" alt="Grafana Mimir" />
       <br /><strong>Mimir</strong>
       <br /><sub>Metrics backend</sub>
     </td>
@@ -281,7 +281,7 @@ Suggested future items:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techsantosarthur&show_icons=true&theme=tokyonight&hide_border=true" alt="Arthur's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techsantosarthur&theme=tokyonight" alt="Arthur's GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=techsantosarthur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -290,8 +290,8 @@ Suggested future items:
 
 ## 🤝 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/arthur-silva-dos-santos/
-- E-mail: ti.arthursantos@gmail.com
+- LinkedIn: [Arthur Santos](https://www.linkedin.com/in/arthur-silva-dos-santos/)
+- E-mail: <a href="mailto:ti.arthursantos@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" alt="Gmail" /></a> ti.arthursantos@gmail.com
 
 ---
 
