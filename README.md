@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/animations/observability-monitoring-banner.svg" alt="Arthur Santos - Observability, Monitoring, APM and SRE" />
+<img src="./assets/animations/fluid_observability_clear_cover.svg" alt="Arthur Santos - Monitoring, Observability, APM, SRE and Trade Watch Platform" />
 
 <br />
 
@@ -218,7 +218,7 @@ My work focuses on designing and evolving observability architectures for critic
 
 ```mermaid
 flowchart LR
-    A[Telemetry Sources] --> B[OpenTelemetry / Collectors]
+    A[Telemetry Sources] --> B[Telemetry Pipeline]
     B --> C[Metrics]
     B --> D[Logs]
     B --> E[Traces]
