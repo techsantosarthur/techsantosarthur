@@ -48,7 +48,7 @@ I combine deep technical execution with a consultative business approach, workin
         <img src="./assets/logos/trade-watch-logo.png" width="290" alt="Trade Watch Platform" />
       </a>
       <br /><br />
-      <strong>Trade Watch Platform</strong>
+      <strong>Trade Watch Platform(https://www.linkedin.com/in/arthur-silva-dos-santos/)</strong>
       <br />
       <sub>Official solution page at Trade Technology</sub>
     </td>
