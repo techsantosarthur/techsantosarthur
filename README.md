@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:001B3A,30:003E7A,68:0A66C2,100:D95F02&text=Arthur%20Santos&fontAlign=50&fontColor=ffffff&fontSize=50&desc=Monitoring%20%7C%20Observability%20%7C%20APM%20%7C%20SRE%20%7C%20Trade%20Watch%20Platform&descSize=18&descAlignY=62&animation=fadeIn" alt="Arthur Santos - Monitoring, Observability, APM, SRE and Trade Watch Platform" />
+<img src="./assets/animations/observability-monitoring-banner.svg" alt="Arthur Santos - Observability, Monitoring, APM and SRE" />
 
 <br />
 
