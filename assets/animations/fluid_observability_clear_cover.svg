@@ -1,0 +1,267 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Arthur Santos - Fluid Observability Banner</title>
+<desc id="desc">A clean animated GitHub profile cover with unobstructed title, fluid telemetry waves, observability signals, and monitoring accents.</desc>
+
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#020B18"/>
+    <stop offset="0.42" stop-color="#061A32"/>
+    <stop offset="0.72" stop-color="#082B52"/>
+    <stop offset="1" stop-color="#051C37"/>
+  </linearGradient>
+
+  <linearGradient id="tradeAccent" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#16D9FF"/>
+    <stop offset="0.48" stop-color="#0A66C2"/>
+    <stop offset="0.78" stop-color="#FF4458"/>
+    <stop offset="1" stop-color="#FF7A1A"/>
+  </linearGradient>
+
+  <radialGradient id="softGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#0A66C2" stop-opacity=".48"/>
+    <stop offset="1" stop-color="#0A66C2" stop-opacity="0"/>
+  </radialGradient>
+
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .title {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-weight: 850;
+      font-size: 54px;
+      fill: #ffffff;
+      letter-spacing: .3px;
+    }
+
+    .subtitle {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      fill: #CDE7FF;
+    }
+
+    .mini {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 12px;
+      fill: #9FCBFF;
+      letter-spacing: 1.4px;
+    }
+
+    .label {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 13px;
+      fill: #EAF6FF;
+    }
+
+    .safe-card {
+      fill: rgba(2, 11, 24, .46);
+      stroke: rgba(127, 216, 255, .12);
+    }
+
+    .grid {
+      stroke: rgba(205, 231, 255, .08);
+      stroke-width: 1;
+    }
+
+    .stream-blue {
+      fill: none;
+      stroke: #16D9FF;
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-dasharray: 16 26;
+      animation: flowRight 7.5s linear infinite;
+      opacity: .78;
+    }
+
+    .stream-soft {
+      fill: none;
+      stroke: #7CB9FF;
+      stroke-width: 2.4;
+      stroke-linecap: round;
+      stroke-dasharray: 12 24;
+      animation: flowLeft 8.5s linear infinite;
+      opacity: .52;
+    }
+
+    .stream-red {
+      fill: none;
+      stroke: #FF4458;
+      stroke-width: 2.6;
+      stroke-linecap: round;
+      stroke-dasharray: 10 22;
+      animation: flowRight 6.7s linear infinite;
+      opacity: .65;
+    }
+
+    .stream-orange {
+      fill: none;
+      stroke: #FF7A1A;
+      stroke-width: 2.6;
+      stroke-linecap: round;
+      stroke-dasharray: 10 22;
+      animation: flowLeft 7.8s linear infinite;
+      opacity: .60;
+    }
+
+    .metric-line {
+      fill: none;
+      stroke: url(#tradeAccent);
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 680;
+      stroke-dashoffset: 680;
+      animation: drawMetric 7s ease-in-out infinite;
+    }
+
+    .node {
+      filter: url(#glow);
+      animation: pulse 2.9s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    .node2 {
+      filter: url(#glow);
+      animation: pulse 3.4s ease-in-out infinite .8s;
+      transform-origin: center;
+    }
+
+    .node3 {
+      filter: url(#glow);
+      animation: pulse 3.1s ease-in-out infinite 1.3s;
+      transform-origin: center;
+    }
+
+    .float {
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .float2 {
+      animation: float 7s ease-in-out infinite reverse;
+    }
+
+    .chip {
+      fill: rgba(5, 25, 48, .68);
+      stroke: rgba(127, 216, 255, .28);
+    }
+
+    .chip-red {
+      fill: rgba(38, 10, 18, .56);
+      stroke: rgba(255, 68, 88, .42);
+    }
+
+    .scan {
+      animation: scan 8s ease-in-out infinite;
+    }
+
+    @keyframes flowRight {
+      to { stroke-dashoffset: -240; }
+    }
+
+    @keyframes flowLeft {
+      to { stroke-dashoffset: 240; }
+    }
+
+    @keyframes drawMetric {
+      0% { stroke-dashoffset: 680; opacity: .35; }
+      36% { stroke-dashoffset: 0; opacity: 1; }
+      78% { stroke-dashoffset: 0; opacity: 1; }
+      100% { stroke-dashoffset: -680; opacity: .25; }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: .45; transform: scale(.86); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-7px); }
+    }
+
+    @keyframes scan {
+      0% { transform: translateX(-160px); opacity: 0; }
+      14% { opacity: .22; }
+      84% { opacity: .22; }
+      100% { transform: translateX(1220px); opacity: 0; }
+    }
+  </style>
+</defs>
+
+<rect width="1200" height="320" rx="28" fill="url(#background)"/>
+<circle cx="600" cy="174" r="300" fill="url(#softGlow)" opacity=".34"/>
+
+<!-- Subtle background grid, intentionally away from visual dominance -->
+<g opacity=".72">
+  <path class="grid" d="M80 58H1120M80 104H1120M80 228H1120M80 274H1120"/>
+  <path class="grid" d="M120 42V284M260 42V284M940 42V284M1080 42V284"/>
+</g>
+
+<!-- Wide title safe area; all animation flows around/below this band -->
+<rect x="255" y="55" width="690" height="132" rx="28" class="safe-card"/>
+<text x="600" y="115" text-anchor="middle" class="title">Arthur Santos</text>
+<text x="600" y="151" text-anchor="middle" class="subtitle">Monitoring • Observability • APM • SRE • Trade Watch Platform</text>
+<rect x="420" y="174" width="360" height="3" rx="2" fill="url(#tradeAccent)" opacity=".92"/>
+
+<!-- Side contextual labels, placed outside the title area -->
+<g class="float">
+  <rect x="72" y="72" width="180" height="42" rx="21" class="chip"/>
+  <text x="162" y="98" text-anchor="middle" class="label">Telemetry Sources</text>
+</g>
+
+<g class="float2">
+  <rect x="948" y="72" width="180" height="42" rx="21" class="chip"/>
+  <text x="1038" y="98" text-anchor="middle" class="label">Operational Insights</text>
+</g>
+
+<!-- Fluid telemetry streams below the name -->
+<path d="M80 210 C220 166, 330 246, 470 208 C560 184, 640 184, 730 208 C872 246, 982 166, 1120 210" class="stream-blue" filter="url(#glow)"/>
+<path d="M80 232 C224 270, 330 198, 464 232 C560 258, 640 258, 736 232 C868 198, 980 270, 1120 232" class="stream-soft"/>
+<path d="M80 250 C240 222, 320 278, 486 248 C574 232, 626 232, 714 248 C880 278, 960 222, 1120 250" class="stream-red"/>
+<path d="M80 274 C244 292, 396 286, 528 270 C624 258, 720 258, 816 270 C948 286, 1056 292, 1120 274" class="stream-orange"/>
+
+<!-- Moving scan accent placed low, not over text -->
+<rect class="scan" x="0" y="202" width="140" height="84" fill="#16D9FF" opacity=".14"/>
+
+<!-- Signal nodes -->
+<circle cx="244" cy="210" r="7" fill="#16D9FF" class="node"/>
+<circle cx="476" cy="208" r="6" fill="#7CB9FF" class="node2"/>
+<circle cx="724" cy="208" r="6" fill="#FF4458" class="node3"/>
+<circle cx="958" cy="210" r="7" fill="#FF7A1A" class="node2"/>
+
+<!-- Minimal metric trace as a professional monitoring cue -->
+<path d="M388 236 L420 226 L454 232 L488 214 L522 224 L558 204 L590 218 L624 198 L660 216 L694 202 L728 218 L764 194 L802 210" class="metric-line"/>
+
+<!-- Bottom concept chips -->
+<g>
+  <rect x="122" y="284" width="110" height="28" rx="14" class="chip"/>
+  <text x="177" y="303" text-anchor="middle" class="mini">METRICS</text>
+
+  <rect x="252" y="284" width="110" height="28" rx="14" class="chip"/>
+  <text x="307" y="303" text-anchor="middle" class="mini">LOGS</text>
+
+  <rect x="382" y="284" width="110" height="28" rx="14" class="chip"/>
+  <text x="437" y="303" text-anchor="middle" class="mini">TRACES</text>
+
+  <rect x="512" y="284" width="110" height="28" rx="14" class="chip"/>
+  <text x="567" y="303" text-anchor="middle" class="mini">APM</text>
+
+  <rect x="642" y="284" width="110" height="28" rx="14" class="chip"/>
+  <text x="697" y="303" text-anchor="middle" class="mini">SLO / SLI</text>
+
+  <rect x="772" y="284" width="110" height="28" rx="14" class="chip-red"/>
+  <text x="827" y="303" text-anchor="middle" class="mini">ALERTS</text>
+
+  <rect x="902" y="284" width="156" height="28" rx="14" class="chip"/>
+  <text x="980" y="303" text-anchor="middle" class="mini">DASHBOARDS</text>
+</g>
+
+</svg>
