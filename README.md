@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0E75B6,100:F46800&text=Arthur%20Santos&fontAlign=50&fontColor=ffffff&fontSize=44&desc=Monitoring%20%7C%20Observability%20%7C%20SRE%20%7C%20Trade%20Watch%20Platform&descSize=17&descAlignY=62" alt="Arthur Santos - Monitoring, Observability, SRE and Trade Watch Platform" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:001B3A,35:003E7A,72:0A66C2,100:D95F02&text=Arthur%20Santos&fontAlign=50&fontColor=ffffff&fontSize=52&desc=Observability%20%7C%20Monitoring%20%7C%20APM%20%7C%20SRE%20%7C%20Trade%20Watch%20Platform&descSize=18&descAlignY=63&animation=fadeIn" alt="Arthur Santos - Observability, Monitoring, APM, SRE and Trade Watch Platform" />
 
 <br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=0A66C2&center=true&vCenter=true&width=900&lines=Turning+telemetry+into+actionable+insights;Monitoring+%7C+Observability+%7C+APM+%7C+SRE;Trade+Watch+Platform+Solution+Architect" alt="Typing intro" />
+
+<br /><br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-dos-santos/)
 [![Email](https://img.shields.io/badge/Email-ti.arthursantos%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti.arthursantos@gmail.com)
@@ -28,7 +32,7 @@ My work focuses on designing and evolving observability architectures for critic
 
 <table>
   <tr>
-    <td width="72%">
+    <td width="68%" valign="middle">
       <h3>Trade Watch Platform Solution Architect</h3>
       <p>
         Leading the architecture and technical evolution of an observability platform focused on critical IT environments, combining infrastructure monitoring, application performance monitoring, distributed tracing, logs, metrics and operational dashboards.
@@ -37,12 +41,14 @@ My work focuses on designing and evolving observability architectures for critic
         The goal is to transform technical signals into actionable insights for engineering, operations and executive decision-making.
       </p>
     </td>
-    <td align="center" width="28%">
+    <td align="center" width="32%" valign="middle">
       <a href="https://tradetechnology.com.br/tr-watch/" target="_blank">
-        <img src="./assets/logos/trade-watch-logo.png" width="250" alt="Trade Watch Platform" />
+        <img src="./assets/logos/trade-watch-logo.png" width="290" alt="Trade Watch Platform" />
       </a>
+      <br /><br />
+      <strong>Trade Watch Platform</strong>
       <br />
-      <sub><a href="https://tradetechnology.com.br/tr-watch/" target="_blank">Official solution page</a></sub>
+      <sub>Official solution page at Trade Technology</sub>
     </td>
   </tr>
 </table>
